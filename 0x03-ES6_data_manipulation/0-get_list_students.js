@@ -1,5 +1,7 @@
 /*  eslint-disable no-underscore-dangle */
 /* eslint-disable quotes */
+
+// created an array
 export default function getListStudents() {
   const student1 = [
     { id: 1, firstName: "Guilaume", location: "San Francisco" },
